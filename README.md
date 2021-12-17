@@ -3,7 +3,7 @@
 <a href="https://github.com/henningamlo">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henningamlo&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henningamlo&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmailar&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henningamlo&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 
 </a>
 </p>
