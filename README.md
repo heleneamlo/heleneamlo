@@ -19,7 +19,6 @@ I like to build websites and other IT things, like CTF's and coding challenges.
 ![C#](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
 ![C#](https://img.shields.io/badge/-Html-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-Css-000?&logo=dLua)
-![C#](https://img.shields.io/badge/-Css-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/ReactJS-black)
 ![C#](https://img.shields.io/badge/Discord.js-black)
 
