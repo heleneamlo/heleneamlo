@@ -3,10 +3,10 @@
 I like to build websites and other IT things, like CTF's and coding challenges.
 <hr>
 <div>
-<a href="https://github.com/henningamlo">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henningamlo&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henningamlo&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henningamlo&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+<a href="https://github.com/heleneamlo">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heleneamlo&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heleneamlo&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heleneamlo&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 
 </a>
 </p>
@@ -25,6 +25,6 @@ I like to build websites and other IT things, like CTF's and coding challenges.
 <br>
 <p style="font-size: 20px;  font-weight: 500;">Github page views</p>
 
-![](https://komarev.com/ghpvc/?username=henningamlo&style=flat-square)
+![](https://komarev.com/ghpvc/?username=heleneamlo&style=flat-square)
 
 </div>
