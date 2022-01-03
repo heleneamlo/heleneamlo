@@ -25,6 +25,6 @@ I like to build websites and other IT things, like CTF's and coding challenges.
 <br>
 <p style="font-size: 20px;  font-weight: 500;">Github page views</p>
 
-![](https://komarev.com/ghpvc/?username=heleneamlo&style=flat-square)
+![](https://komarev.com/ghpvc/?username=henningamlo&style=flat-square)
 
 </div>
