@@ -21,7 +21,7 @@ I like to build websites and other IT things, like CTF's and coding challenges.
 ![C#](https://img.shields.io/badge/-Css-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/ReactJS-black)
 ![C#](https://img.shields.io/badge/Discord.js-black)
-
+<hr></hr>
 <br>
 <p style="font-size: 20px;  font-weight: 500;">Github page views</p>
 
