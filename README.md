@@ -11,7 +11,7 @@ I like to build websites and other IT things, like CTF's and coding challenges.
 </a>
 </p>
 </details>
-
+<hr></hr>
 <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
 <p style="font-size: 20px;  font-weight: 500;">"Languages" that i know</p>
 
