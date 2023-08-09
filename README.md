@@ -1,5 +1,5 @@
 ### Hi!
-**I'm an 18 year old web developer from Norway**<br>
+**I'm a 19 year old IT Technician from Norway**<br>
 I like to build websites and other IT things, like CTF's and coding challenges.
 <hr>
 <div>
